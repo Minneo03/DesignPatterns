@@ -1,3 +1,4 @@
+package singleton;
 /**
  * Just testing to see how Singletons work, this class simply contains the main method used to test for if the singleton works.
  * 

@@ -1,3 +1,4 @@
+package singleton;
 /**
  * This class creates a singletonObj and only allows one instance of the object to occur by creating a private constructor and a public static getInstance method.
  * 
