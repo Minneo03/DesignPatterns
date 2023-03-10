@@ -15,6 +15,7 @@ public class Constants
            { "Jerry Smith", 100, 95, 90, 94},
            { "Veronica Partin", 85, 90, 100, 93},
            { "Alexander Brown", 60, 60, 60, 60},
-           { "Brandon McDuff", 72, 100, 84, 87} };
+           { "Brandon McDuff", 72, 100, 84, 87},
+           { "Deep Patel", 100, 100, 100, 0} };
     
 }

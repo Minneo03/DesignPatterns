@@ -36,7 +36,7 @@ public class Controller implements ActionListener
 			
 			for (Object[] o: Constants.DATA)
 			{
-				if (!(searchTerm.trim()).equals("*")) 
+				if ((searchTerm.trim()).equals("*"))
 				{
 					newData[index++] = o;
 				}
